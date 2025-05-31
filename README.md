@@ -1,2 +1,2 @@
 # mi_tienda
-Proyecto metodologia
+INTRODUCCION
